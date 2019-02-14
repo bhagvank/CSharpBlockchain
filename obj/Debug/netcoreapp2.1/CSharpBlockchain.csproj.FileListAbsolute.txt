@@ -1,0 +1,11 @@
+/Users/bhagvan.kommadi/Desktop/opensource/CSharpBlockchain/bin/Debug/netcoreapp2.1/CSharpBlockchain.deps.json
+/Users/bhagvan.kommadi/Desktop/opensource/CSharpBlockchain/bin/Debug/netcoreapp2.1/CSharpBlockchain.runtimeconfig.json
+/Users/bhagvan.kommadi/Desktop/opensource/CSharpBlockchain/bin/Debug/netcoreapp2.1/CSharpBlockchain.runtimeconfig.dev.json
+/Users/bhagvan.kommadi/Desktop/opensource/CSharpBlockchain/bin/Debug/netcoreapp2.1/CSharpBlockchain.dll
+/Users/bhagvan.kommadi/Desktop/opensource/CSharpBlockchain/bin/Debug/netcoreapp2.1/CSharpBlockchain.pdb
+/Users/bhagvan.kommadi/Desktop/opensource/CSharpBlockchain/obj/Debug/netcoreapp2.1/CSharpBlockchain.csprojAssemblyReference.cache
+/Users/bhagvan.kommadi/Desktop/opensource/CSharpBlockchain/obj/Debug/netcoreapp2.1/CSharpBlockchain.csproj.CoreCompileInputs.cache
+/Users/bhagvan.kommadi/Desktop/opensource/CSharpBlockchain/obj/Debug/netcoreapp2.1/CSharpBlockchain.AssemblyInfoInputs.cache
+/Users/bhagvan.kommadi/Desktop/opensource/CSharpBlockchain/obj/Debug/netcoreapp2.1/CSharpBlockchain.AssemblyInfo.cs
+/Users/bhagvan.kommadi/Desktop/opensource/CSharpBlockchain/obj/Debug/netcoreapp2.1/CSharpBlockchain.dll
+/Users/bhagvan.kommadi/Desktop/opensource/CSharpBlockchain/obj/Debug/netcoreapp2.1/CSharpBlockchain.pdb
